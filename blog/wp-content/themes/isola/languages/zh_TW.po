@@ -1,0 +1,235 @@
+# Translation of Isola in Chinese (Taiwan)
+# This file is distributed under the same license as the Isola package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-07-31 03:36:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Isola\n"
+
+#: inc/template-tags.php:75
+msgid "Featured"
+msgstr "精選"
+
+#: searchform.php:16
+msgid "Search"
+msgstr "搜尋"
+
+#: searchform.php:3 searchform.php:14
+msgid "Search for:"
+msgstr "搜尋："
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "關於 <strong>%s</strong> 的搜尋結果"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "文章導航列"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "較新的文章 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "文章導覽"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 較舊的文章"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "第 %s 頁"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "直接觀看文章"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:145
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "於"
+
+#: functions.php:81
+msgid "Sidebar"
+msgstr "邊欄"
+
+#: functions.php:46 header.php:38
+msgid "Primary Menu"
+msgstr "主要選單"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "佈景主題：%1$s，發表者：%2$s。"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "自豪的採用 %s </a> 與 <a href=\"http://wordpress.org/extend/themes/twentytwelve\">貳零壹貳主題</a>"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://tw.wordpress.org/"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我們似乎找不到你正在尋找的項目。請嘗試搜尋功能。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，沒有項目符合你的搜尋字詞。請再嘗試其他不同的關鍵字！"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備好發表你的第一篇文章了嗎？<a href=\"%1$s\">自這裡開始</a>。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "什麼都沒找到"
+
+#: content-aside.php:51 content-gallery.php:53 content-page.php:24
+#: content-search.php:40 content-single.php:82 content.php:95
+msgid "Edit"
+msgstr "編輯"
+
+#: content-aside.php:36 content-gallery.php:38 content-search.php:23
+#: content.php:80
+msgid "% Comments"
+msgstr "% 則迴響"
+
+#: content-aside.php:36 content-gallery.php:38 content-search.php:23
+#: content.php:80
+msgid "1 Comment"
+msgstr "1 則迴響"
+
+#: content-aside.php:36 content-gallery.php:38 content-search.php:23
+#: content.php:80
+msgid "Comment"
+msgstr "迴響"
+
+#: content-aside.php:22 content-gallery.php:29 content-page.php:18
+#: content-single.php:63 content.php:71
+msgid "Pages:"
+msgstr "頁次："
+
+#: content-aside.php:19 content-gallery.php:26 content-single.php:9
+#: content-single.php:59 content.php:8 content.php:67
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "繼續閱讀 <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:11 content-gallery.php:17 content.php:16
+msgid "All %s posts"
+msgstr "所有 %s 篇文章"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "迴響已被關閉。"
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "較新評論 &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; 較早評論"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "評論導航列"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "對「%2$s」的想法"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "彙整"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "音訊"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "閒聊"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "狀態"
+
+#: archive.php:54
+msgid "Links"
+msgstr "鏈結"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "引文"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "影片"
+
+#: archive.php:45
+msgid "Images"
+msgstr "圖片"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "藝廊"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "旁白"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "年: %s"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "月: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "日: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "看來這裡找不到東西。也許可以試試看搜尋？"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "糟糕！找不到該頁面。"

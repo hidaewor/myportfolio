@@ -1,0 +1,81 @@
+== CHANGE LOG ==
+= 1.1.1.1 =
+	- Update - Upgrade to Pro button removed from top of customizer and added on section
+	- Updated - Custom CSS added to support core for WP version 4.7
+	- Fix - http to https path changed
+
+= 1.1.1.0 =
+	- Fix - Page Title H2 Tag change to H1 for SEO
+	- Fix - Featured Image on Search Results added
+	- New - Featured Image also displayed on page
+	- Fix - WooCommerce CSS for overlapping fixed
+
+= 1.1.0.9 =
+	- Fix - Dropdown menu color and some css edited
+	- Fix - Responsive nav arrow fix
+	- Fix - excerpt value escaped for security
+
+= 1.1.0.8 =
+	- Fix - Sticky header issue fixed
+	- Fix - Animation issue for sticky menu in safari
+
+= 1.1.0.7 =
+	- Fix - Single page loop issues fixed
+	- Update - Drop Down Menu CSS Updated
+	- Feature - Big Letter Options for blog post added
+
+= 1.1.0.6 =
+	- Fix - hex color not supported fixed
+
+= 1.1.0.5 =
+	- Fix - Unwanted Code removed
+	- Fix - Unwanted file removed
+
+= 1.1.0.4 =
+	- Fix - Dropdown menu hover issue
+
+= 1.1.0.3 =
+	- Tweak - Holiday tag removed
+
+= 1.1.0.2 =
+	- Tweak - Screenshot Updated
+	- Update - CSS Updated
+
+= 1.1.0.1 =
+	- Update - Inline css Updated as design
+= 1.1 =
+	- Update - CSS Updated
+	- Update - Pot file updated as of some value changed.
+	- Update - Slider Updated
+	- Fix - is_product_category undefined issue fixed while using bbpress forum
+	- Fix - global $post removed which was used many times. Now only one time used
+	- Fix - used if(is_front_page()) instead of if((is_home() && is_front_page() || is_front_page()))
+	- Fix - Used the_title_attribute('echo=0') instead the_title( '', '', false ) 
+	- Fix - post format removed and used filter post_class()
+	- Fix - Using the_post_thumbnail as recommended
+	- Fix - Removed theme support html5 from search form. used &hellip; instead of ...
+	- Fix - Unwanted footer functions removed
+	- Fix - navigation.php Changed to pagination.php
+	- Fix - unused edge_font_url() removed
+	- Fix - Infinite Scroll fixed
+	- Fix - edge-main.js edited
+	- Fix - date issue fixed on footer
+	- Feature - Color Styles added for more user friendly.
+	- Feature - Single Blog column options added
+
+= 1.0.3 =
+	- Fix - View Demo" and "View ThemeFreesia Themes fixed
+	- Fix - Header Image doesn't seem to do anything
+	- Fix - Social Icons default value removed
+	- Fix - edge_display_front_page() removed
+
+= 1.0.2 =
+	- Fix - Responsive menu fixed
+	- Fix - logo fix
+
+= 1.0.1 =
+	- Fix - Major fix on all files
+	- Update - Major Update on all files.
+
+= 1.0 =
+	- Initial Release

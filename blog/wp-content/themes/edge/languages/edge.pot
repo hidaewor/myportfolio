@@ -1,0 +1,644 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: edge 1.0\n"
+"POT-Creation-Date: 2016-06-30 21:05+0545\n"
+"PO-Revision-Date: 2015-08-07 08:34+0545\n"
+"Last-Translator: \n"
+"Language-Team: ThemeFreesia <themefreesia@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __e;__;esc_attr__;esc_attr_e;_x;_n;esc_html__;"
+"esc_html_e;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:31
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:34
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: content.php:27 single.php:85
+msgid "Category : "
+msgstr ""
+
+#: content.php:30 single.php:87
+msgid ", "
+msgstr ""
+
+#: content.php:64 inc/settings/edge-functions.php:195
+msgid "Read More"
+msgstr ""
+
+#: content.php:86 single.php:53
+msgid "No Comments"
+msgstr ""
+
+#: content.php:86 single.php:53
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:86 single.php:53
+msgid "% Comments"
+msgstr ""
+
+#: content.php:86 single.php:53
+msgid "Comments Off"
+msgstr ""
+
+#: footer.php:78
+msgid "Go to Top"
+msgstr ""
+
+#: functions.php:53
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:135 functions.php:136
+msgid "Review Edge"
+msgstr ""
+
+#: functions.php:138 functions.php:139
+msgid "Theme Instructions"
+msgstr ""
+
+#: functions.php:141 functions.php:142
+msgid "Forum"
+msgstr ""
+
+#: functions.php:148
+msgid "About Edge"
+msgstr ""
+
+#: inc/customizer/functions/color-options.php:11
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer/functions/color-options.php:24
+msgid "Select Color Style"
+msgstr ""
+
+#: inc/customizer/functions/color-options.php:38
+msgid "Nav and links"
+msgstr ""
+
+#: inc/customizer/functions/color-options.php:49
+msgid "Buttons Reset/ Submit"
+msgstr ""
+
+#: inc/customizer/functions/color-options.php:60
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:12
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:23
+msgid "Responsive Layout"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:28
+msgid "ON "
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:29
+msgid "OFF"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:39
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:44
+msgid "Blog Large Image Display"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:45
+msgid "Blog Medium Image Display"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:46
+msgid "Single Column Blog Display"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:56
+msgid "Disable Entry Format from Blog Page"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:60
+msgid "Display Entry Format"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:61
+msgid "Hide Entry Format"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:62
+msgid "Show Button Only"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:63
+msgid "Hide Button Only"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:73
+msgid "Disable Entry Meta from Blog Page"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:77
+msgid "Display Entry Meta"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:78
+msgid "Hide Entry Meta"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:88
+msgid "Design Layout"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:93
+msgid "Full Width Layout"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:94
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:95
+msgid "Small Boxed Layout"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:12
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:23
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:28
+msgid "Front Page"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:29
+msgid "Entire Site"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:30
+msgid "Disable Slider"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:41
+msgid "Secondary Button Text"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:53
+msgid "Secondary Button Url"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:65
+msgid "Slider Content With background color"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:70
+msgid "Show Background Color"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:71
+msgid "Hide Background Color"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:75
+msgid "Display Page Slider"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:88
+msgid " Page Slider #"
+msgstr ""
+
+#: inc/customizer/functions/frontpage-features.php:12
+msgid "Display FrontPage Features"
+msgstr ""
+
+#: inc/customizer/functions/frontpage-features.php:23
+msgid "Disable in Front Page"
+msgstr ""
+
+#: inc/customizer/functions/frontpage-features.php:36
+msgid " Feature #"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:16
+msgid "Edge WordPress Settings"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:26
+msgid "Edge Theme Options"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:36
+msgid "Edge Slider Options"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:46
+msgid "Edge Widgets"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:56
+msgid "Edge Colors"
+msgstr ""
+
+#: inc/customizer/functions/social-icons.php:12
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/functions/social-icons.php:25
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer/functions/social-icons.php:39
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer/functions/social-icons.php:53
+msgid "Pinterest Link"
+msgstr ""
+
+#: inc/customizer/functions/social-icons.php:67
+msgid "Dribbble Link"
+msgstr ""
+
+#: inc/customizer/functions/social-icons.php:81
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/customizer/functions/social-icons.php:95
+msgid "Flickr Link"
+msgstr ""
+
+#: inc/customizer/functions/social-icons.php:109
+msgid "Google Plus Link"
+msgstr ""
+
+#: inc/customizer/functions/social-icons.php:123
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:12
+msgid "Site Title & Logo Options"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:23
+msgid "Site Logo/ Text Options"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:29
+msgid "Display Site Title Only"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:30
+msgid "Display Site Logo Only"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:31
+msgid "Show Both"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:32
+msgid "Disable Both"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:36
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:41
+msgid "Edge Options"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:52
+msgid "Disable Search Form"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:63
+msgid "Disable Stick Menu"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:74
+msgid "Disable Goto Top"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:85
+msgid "Disable Top Social Icons"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:96
+msgid "Disable Buttom Social Icons"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:108
+msgid "Reset all default settings. (Refresh it to view the effect)"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:113
+msgid "Enter your custom CSS"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:124
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:130
+#: inc/customizer/functions/theme-options.php:141
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:142
+msgid "Image will be displayed on footer"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:149
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:154
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:159
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:164
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/footer-details.php:17
+msgid "Designed by:"
+msgstr ""
+
+#: inc/footer-details.php:17
+msgid "Theme Freesia"
+msgstr ""
+
+#: inc/footer-details.php:18
+msgid "Powered by:"
+msgstr ""
+
+#: inc/footer-details.php:18
+msgid "WordPress"
+msgstr ""
+
+#: inc/settings/color-option-functions.php:14
+msgid "--Default--"
+msgstr ""
+
+#: inc/settings/color-option-functions.php:24
+msgid "Dark"
+msgstr ""
+
+#: inc/settings/color-option-functions.php:34
+msgid "Yellow"
+msgstr ""
+
+#: inc/settings/color-option-functions.php:44
+msgid "Pink"
+msgstr ""
+
+#: inc/settings/color-option-functions.php:55
+msgid "Blue"
+msgstr ""
+
+#: inc/settings/color-option-functions.php:65
+msgid "Purple"
+msgstr ""
+
+#: inc/settings/color-option-functions.php:75
+msgid "Van Buren Brown"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:15
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:18
+msgid "Older Comments"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:21
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:89
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:92
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:94
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:96
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:98
+msgid "Audios"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:100
+msgid "Asides"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:102
+msgid "Images"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:104
+msgid "Galleries"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:106
+msgid "Videos"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:108
+msgid "Status"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:110
+msgid "Quotes"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:112
+msgid "links"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:114
+msgid "Chats"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:120
+msgid "Archives"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:125
+msgid "Page NOT Found"
+msgstr ""
+
+#: inc/settings/edge-common-functions.php:127
+msgid "Search Results"
+msgstr ""
+
+#: inc/settings/edge-functions.php:85
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:11
+msgid "Display Contact Us Information"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:13
+msgid "TF: Contact Us"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:26
+msgid "Contact Title:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:32
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:38
+msgid "Address Link:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:44
+msgid "Phone No 1:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:50
+msgid "Phone No 2:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:56
+msgid "Skype ID:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:62
+msgid "Email ID:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:14
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:16
+msgid "Shows widgets at Main Sidebar."
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:23
+msgid "Display Contact Info at Header "
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:25
+msgid "Shows widgets on all page."
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:30
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:32
+msgid "Shows widgets on Contact Page Template."
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:39
+msgid "Shortcode For Contact Page"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:41
+msgid ""
+"Add Contact Form 7 Shortcode using text widgets Ex: [contact-form-7 id="
+"\"137\" title=\"Contact form 1\"]"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:48
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:50
+msgid "Add WooCommerce Widgets Only"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:60
+msgid "Footer Column "
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:62
+msgid "Shows widgets at Footer Column "
+msgstr ""
+
+#: index.php:35 page-templates/contact-template.php:51
+#: page-templates/gallery-template.php:52 page.php:52 search.php:44
+#: single.php:113
+msgid "No Posts Found."
+msgstr ""
+
+#: page-templates/gallery-template.php:39 page.php:39 single.php:72
+msgid "Pages:"
+msgstr ""
+
+#: pagination.php:19
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: pagination.php:22
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: searchform.php:18
+msgid "Search &hellip;"
+msgstr ""
+
+#: single.php:98
+msgid "&larr; Previous"
+msgstr ""
+
+#: single.php:99
+msgid "Next &rarr;"
+msgstr ""
+
+#: single.php:103
+msgid "&larr;"
+msgstr ""
+
+#: single.php:104
+msgid "&rarr;"
+msgstr ""

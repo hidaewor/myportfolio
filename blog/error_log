@@ -1,0 +1,1 @@
+[29-Jul-2016 10:24:07 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/idaeworhope/public_html/blog/wp-includes/class-wp-xmlrpc-server.php on line 596
