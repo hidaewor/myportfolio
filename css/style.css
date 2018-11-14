@@ -2918,7 +2918,7 @@ a.no-lines:hover{
 
 @media (max-width: 991px) {
 	.hero-center-text-wrap h1{
-		font-size: 16px;
+		font-size: 30px;
 	}
 	.hero-center-text-wrap h1 span{
 		padding-left: 0;
@@ -2995,6 +2995,13 @@ a.no-lines:hover{
 }
 
 @media (max-width: 767px) {
+
+    .background-parallax{
+        display:none;
+    }
+    .parallax-fade-top-2{
+        text-align: center;
+    }
 	.hero-slider-img {
 		position:relative;
 		height: calc(100vh - 78px);
