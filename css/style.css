@@ -122,6 +122,31 @@ ol.nsaf{
     max-width: 700px;
 }
 
+/* HAPPY PATHS */
+.paths .main blockquote{
+    border-left: 5px solid #3ABAA9;
+    padding-left: 40px;
+    font-size: 1.3rem;
+    color:#AD4993;
+}
+.paths  .finding blockquote{
+    border-left: 5px solid #3ABAA9;
+    padding-left: 40px;
+    font-size: 1rem;
+    text-align: left;
+}
+.paths  .pic-details blockquote{
+    border-left: 5px solid #3ABAA9;
+    padding-left: 40px;
+    font-size: 1rem;
+    margin-top:40px;
+}
+ol.paths  > li:before{
+    color: #3ABAA9 !important;
+}
+ol.paths  > li{
+    border-left: 1px solid #3ABAA9 !important;
+}
 
 
 /* #Primary
@@ -168,6 +193,9 @@ h6, .h6 {
 	text-transform: uppercase;
 	font-weight:600;
 	margin-bottom: 1rem;
+}
+.physical h1{
+    padding-bottom:.8em;
 }
 .lead {
 	font-size: 1.05rem;
