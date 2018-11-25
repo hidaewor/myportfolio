@@ -21,6 +21,9 @@
 .highlight{
     background-color: #EDAE91;
 }
+.about{
+    padding-top:12em !important;
+}
 table{
     border-collapse: collapse;
     border: 0;
@@ -3028,6 +3031,8 @@ a.no-lines:hover{
 
 @media (max-width: 767px) {
 
+    .about{ 
+    padding-top: 0 !important;}
     .background-parallax{
         display:none;
     }
