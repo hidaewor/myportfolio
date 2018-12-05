@@ -18,11 +18,26 @@
  ================================================== */
 
 /* General */
+.intro p.lead{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 400;   
+}
+.intro h1 span{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-size: 5vw;
+    line-height: 1.2;
+    -webkit-text-stroke: 2px #fff;
+    text-stroke: 2px #fff;
+    color: transparent;
+}
 .highlight{
     background-color: #EDAE91;
 }
 .about{
-    padding-top:12em !important;
+    padding-top:2em !important;
 }
 table{
     border-collapse: collapse;
@@ -1318,7 +1333,7 @@ Mobile style's
 	font-size: 14px;
 	font-weight: 500;
 	letter-spacing: 1px;
-	color: #555;
+	color: #fff;
 	-webkit-transform: translateY(-50%);
 	-moz-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
@@ -2952,6 +2967,10 @@ a.no-lines:hover{
 }
 
 @media (max-width: 991px) {
+    .mobile-center{
+        margin: 0 auto;
+        text-align:center !important;
+    }
 	.hero-center-text-wrap h1{
 		font-size: 30px;
 	}
@@ -2991,6 +3010,14 @@ a.no-lines:hover{
 		text-stroke: 2px transparent;
 		color: #212121;
 	}
+    .intro h1 span{
+        text-align: center !important;
+        font-size: 9vw;
+        line-height: 1.3;
+        -webkit-text-stroke: 2px transparent;
+        text-stroke: 2px transparent;
+        color: #fff;
+    }
 	.project-nav-wrap {
 		background-image:none;
 	}
